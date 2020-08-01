@@ -1,0 +1,113 @@
+province,infection_case,confirmed
+Seoul,Guro-gu Call Center,98
+Seoul,Dongan Church,20
+Seoul,Manmin Central Church,41
+Seoul,Eunpyeong St. Mary's Hospital,14
+Seoul,Seongdong-gu APT,13
+Seoul,Jongno Community Center,10
+Seoul,Jung-gu Fashion Company,7
+Seoul,Shincheonji Church,8
+Seoul,overseas inflow,313
+Seoul,contact with patient,18
+Seoul,etc,23
+Busan,Onchun Church,39
+Busan,Shincheonji Church,12
+Busan,Suyeong-gu Kindergarten,5
+Busan,Haeundae-gu Catholic Church,6
+Busan,Jin-gu Academy,4
+Busan,Cheongdo Daenam Hospital,1
+Busan,overseas inflow,21
+Busan,contact with patient,18
+Busan,etc,31
+Daegu,Shincheonji Church,4510
+Daegu,Second Mi-Ju Hospital,195
+Daegu,Hansarang Convalescent Hospital,127
+Daegu,Daesil Convalescent Hospital,100
+Daegu,Fatima Hospital,36
+Daegu,Cheongdo Daenam Hospital,2
+Daegu,overseas inflow,21
+Daegu,contact with patient,922
+Daegu,etc,721
+Gwangju,Shincheonji Church,9
+Gwangju,overseas inflow,20
+Gwangju,contact with patient,1
+Gwangju,etc,0
+Incheon,Guro-gu Call Center,20
+Incheon,Shincheonji Church,2
+Incheon,overseas inflow,47
+Incheon,contact with patient,5
+Incheon,etc,4
+Daejeon,Korea Forest Engineer Institute,3
+Daejeon,Shincheonji Church,2
+Daejeon,Seosan-si Laboratory,2
+Daejeon,overseas inflow,9
+Daejeon,contact with patient,8
+Daejeon,etc,9
+Ulsan,Shincheonji Church,16
+Ulsan,overseas inflow,15
+Ulsan,contact with patient,4
+Ulsan,etc,7
+Sejong,Ministry of Oceans and Fisheries,30
+Sejong,gym facility in Sejong,8
+Sejong,Shincheonji Church,1
+Sejong,overseas inflow,3
+Sejong,contact with patient,3
+Sejong,etc,1
+Gyeonggi-do,River of Grace Community Church,72
+Gyeonggi-do,Guro-gu Call Center,48
+Gyeonggi-do,Uijeongbu St. Mary?€?s Hospital,49
+Gyeonggi-do,Shincheonji Church,29
+Gyeonggi-do,Bundang Jesaeng Hospital,22
+Gyeonggi-do,Suwon Saeng Myeong Saem Church,10
+Gyeonggi-do,overseas inflow,213
+Gyeonggi-do,contact with patient,55
+Gyeonggi-do,etc,41
+Gangwon-do,Shincheonji Church,17
+Gangwon-do,Uijeongbu St. Mary?€?s Hospital,10
+Gangwon-do,Wonju-si Apartments,3
+Gangwon-do,overseas inflow,14
+Gangwon-do,contact with patient,0
+Gangwon-do,etc,7
+Chungcheongbuk-do,Shincheonji Church,6
+Chungcheongbuk-do,Goesan-gun Jangyeon-myeon,11
+Chungcheongbuk-do,overseas inflow,7
+Chungcheongbuk-do,contact with patient,6
+Chungcheongbuk-do,etc,8
+Chungcheongnam-do,gym facility in Cheonan,103
+Chungcheongnam-do,Seosan-si Laboratory,9
+Chungcheongnam-do,overseas inflow,12
+Chungcheongnam-do,contact with patient,1
+Chungcheongnam-do,etc,10
+Jeollabuk-do,Shincheonji Church,1
+Jeollabuk-do,overseas inflow,8
+Jeollabuk-do,etc,5
+Jeollanam-do,Manmin Central Church,2
+Jeollanam-do,Shincheonji Church,1
+Jeollanam-do,overseas inflow,8
+Jeollanam-do,contact with patient,2
+Jeollanam-do,etc,1
+Gyeongsangbuk-do,Shincheonji Church,566
+Gyeongsangbuk-do,Cheongdo Daenam Hospital,120
+Gyeongsangbuk-do,Bonghwa Pureun Nursing Home,68
+Gyeongsangbuk-do,Pilgrimage to Israel,49
+Gyeongsangbuk-do,Milal Shelter,36
+Gyeongsangbuk-do,Gyeongsan Seorin Nursing Home,66
+Gyeongsangbuk-do,Yechun-gun,37
+Gyeongsangbuk-do,Gyeongsan Jeil Silver Town,17
+Gyeongsangbuk-do,Gyeongsan Cham Joeun Community Center,16
+Gyeongsangbuk-do,overseas inflow,10
+Gyeongsangbuk-do,contact with patient,191
+Gyeongsangbuk-do,etc,134
+Gyeongsangnam-do,Shincheonji Church,32
+Gyeongsangnam-do,Geochang Church,10
+Gyeongsangnam-do,Geochang-gun Woongyang-myeon,8
+Gyeongsangnam-do,Wings Tower,10
+Gyeongsangnam-do,Hanmaeum Changwon Hospital,7
+Gyeongsangnam-do,Changnyeong Coin Karaoke,7
+Gyeongsangnam-do,Onchun Church,2
+Gyeongsangnam-do,overseas inflow,15
+Gyeongsangnam-do,contact with patient,6
+Gyeongsangnam-do,etc,18
+Jeju-do,overseas inflow,9
+Jeju-do,contact with patient,0
+Jeju-do,etc,4
