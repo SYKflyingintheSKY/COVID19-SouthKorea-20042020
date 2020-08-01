@@ -12,7 +12,7 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 In addition, the shp file containing the information of administrative districts in South Korea can be checked through the following link.
 http://www.gisdeveloper.co.kr/?p=2332
 
-The answers of the questions above can be checked in pdf files (Tableau_exploration, R_exploration) in the same folder. 
+The answers of the questions above can be checked in pdf files (Tableau_exploration, R_exploration). 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
