@@ -16,10 +16,12 @@ The answers of the questions above can be checked in pdf files (Tableau_explorat
 
 # Points which could have been improved
 1. Tableau_exploration
-*
+* Restoring and investigating a couple of removed columns that may offer interesting context
+* Including small snippet of before and after wrangling 
 
 2. R_exploration
-*
+* Dot plot would be better viewed as a boxplot ordered on min date
+* Reducing the detail of shapefiles causing longer load time than they are worth for live interaction
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
