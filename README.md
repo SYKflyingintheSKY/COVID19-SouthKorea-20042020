@@ -14,6 +14,13 @@ http://www.gisdeveloper.co.kr/?p=2332
 
 The answers of the questions above can be checked in pdf files (Tableau_exploration, R_exploration). 
 
+# Points which could have been improved
+1. Tableau_exploration
+*
+
+2. R_exploration
+*
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 한국의 COVID19 상황 시각화 (-2020/04/20)
