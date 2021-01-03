@@ -16,7 +16,7 @@ The answers of the questions above can be checked in pdf files (Tableau_explorat
 
 # Points which could have been improved
 1. Tableau_exploration
-* Restoring and investigating a couple of removed columns that may offer interesting context
+* Restoring and re-investigating a couple of removed columns that may offer meaningful context
 * Including small snippet of before and after wrangling 
 
 2. R_exploration
@@ -40,3 +40,12 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 http://www.gisdeveloper.co.kr/?p=2332
 
 각 질문에 대한 답은 첨부된 pdf 파일들(Tableau_exploration, R_exploration)을 통해 확인할 수 있다.
+
+# 개선 가능점
+1.Tableau_exploration
+* 삭제된 attribute들 중 유의미한 정보를 제공할 수 있었던 컬럼들을 복구하여 재탐색
+* Wrangling 전후로 snippet 첨부
+
+2.R_exploration
+* Dot plot 대신 날짜별로 정렬된 boxplot 사용
+* shp 파일의 불필요한 정보들을 삭제하여 live interaction의 로딩 시간 감소
