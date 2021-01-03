@@ -14,7 +14,7 @@ http://www.gisdeveloper.co.kr/?p=2332
 
 The answers of the questions above can be checked in pdf files (Tableau_exploration, R_exploration). 
 
-# Points which could have been improved
+## Points which could have been improved
 1. Tableau_exploration
 * Restoring and re-investigating a couple of removed columns that may offer meaningful context
 * Including small snippet of before and after wrangling 
